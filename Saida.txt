@@ -1,0 +1,4485 @@
+Relatorio de saida:
+----------------------------
+Avl:
+O do processo 1 foi inserido
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [1] --- Bal [0]
+codigo [2] --- Bal [0]
+codigo [3] --- Bal [0]
+Listando:
+codigo [1560759171] --- Bal [-1]
+codigo [1] --- Bal [-1]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 foi inserido
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [1] --- Bal [0]
+codigo [2] --- Bal [0]
+codigo [3] --- Bal [0]
+codigo [4] --- Bal [-1]
+codigo [1] --- Bal [-1]
+Listando:
+codigo [1560759174] --- Bal [-1]
+codigo [1] --- Bal [-1]
+codigo [3] --- Bal [0]
+codigo [4] --- Bal [-1]
+codigo [1] --- Bal [-1]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 nao foi inserido - já existe na árvore
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [1560759174] --- Bal [-1]
+codigo [1] --- Bal [-1]
+codigo [3] --- Bal [0]
+codigo [4] --- Bal [-1]
+codigo [1] --- Bal [-1]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+O do processo 1 nao foi inserido - já existe na árvore
+O do processo 2 foi inserido
+O do processo 3 foi inserido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [2] --- Bal [1]
+codigo [3] --- Bal [0]
+Codigo 2 encontrado. Processo removido
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [1] --- Bal [0]
+codigo [3] --- Bal [0]
+Alterado a prioridade, processo com código 1encontrado.
+Alterado a prioridade, processo com código 3encontrado.
+Alterado a prioridade, processo com código 1encontrado.
+O do processo 4 foi inserido
+Alterado a prioridade, processo com código 4encontrado.
+Listando:
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+codigo [1] --- Bal [1]
+codigo [1] --- Bal [1]
+codigo [3] --- Bal [1]
+codigo [4] --- Bal [0]
+Alterado a prioridade, processo com código 4encontrado.
+Codigo 3 encontrado. Processo removido
+Codigo 4 encontrado. Processo removido
+Heap:
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+O processo 1 foi inserido
+O processo 2 foi inserido
+O processo 3 foi inserido
+Listando:
+Código: 3, Nome: NavegadorWeb, Prioridade: 6
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 3 foi removido com sucesso
+Listando:
+Código: 2, Nome: Compilador, Prioridade: 5
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+Código: 1, Nome: EditorTexto, Prioridade: 3
+O processo 4 foi inserido
+O processo 2 foi removido com sucesso
+Processo 3 nao encontrado, nao foi removido
+Processo 4  encontrado e removido
+Hash Linear:
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 0 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 0 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 1 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 1 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 1 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 2 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 2 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 2 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 3 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 3 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 3 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 4 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 4 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 4 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 5 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 5 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 5 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 6 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 6 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 6 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 7 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 7 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 7 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 8 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 8 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 8 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 9 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 9 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 9 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 10 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 10 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 10 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 11 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 11 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 11 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 12 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 12 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 12 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 13 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 13 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 13 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 14 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 14 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 14 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 15 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 15 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 15 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 16 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 16 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 16 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 17 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 17 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 17 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 18 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 18 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 18 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem linear: 0 
+O processo 2 foi inserido. Total de colisões na sondagem linear: 19 
+O processo 3 foi inserido. Total de colisões na sondagem linear: 19 
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem linear: 19 
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+Hash Quadratica:
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 0
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 0
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 foi removido
+O processo 4 foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 1
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 1
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 1
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 2
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 2
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 2
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 3
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 3
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 3
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 4
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 4
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 4
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 5
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 5
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 5
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 6
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 6
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 6
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 7
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 7
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 7
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 8
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 8
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 8
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 9
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 9
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 9
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 11
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 12
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 13
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 12
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 13
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 15
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 13
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 15
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 18
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 15
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 16
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 20
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 16
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 18
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 21
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 17
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 19
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 23
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 19
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 20
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 24
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 20
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 21
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 25
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 0
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 21
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 24
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 1
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+O processo 1 foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 26
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+O processo 1 foi inserido. Total de colisões na sondagem quadratica: 3
+O processo 2 foi inserido. Total de colisões na sondagem quadratica: 23
+O processo 3 foi inserido. Total de colisões na sondagem quadratica: 30
+Estado do processo 3 mudado para BLOQUEADO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 1
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Foi listado processos no estado BLOQUEADO
+Processo 4
+Processo 3
+Processo 4
+Estado do processo 3 mudado para PRONTO
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 1
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+O processo 1 não foi removido
+Foi listado processos no estado PRONTO
+Processo 2
+Processo 2
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 1
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 4
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 2
+Processo 3
+Processo 4
+Processo 2
+Processo 3
+Processo 4
+Processo 3
+Processo 4
+Estado do processo 3 mudado para EXECUTANDO
+Foi listado processos no estado EXECUCAO
+O processo 4 foi inserido. Total de colisões na sondagem quadratica: 27
+Estado do processo 4 mudado para BLOQUEADO
+Foi listado processos no estado BLOQUEADO
+Processo 4
+Processo 4
+O processo 3 não foi removido
+O processo 4 não foi removido
+-------------------------------------------
+
